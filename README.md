@@ -1,6 +1,6 @@
 # Google Cybersecurity Professional Certificate: Portfolio
 
-## Contents:
+### Contents:
 - Professional statement
 - Conducting a security audit
 - Analyzing network structure and security
