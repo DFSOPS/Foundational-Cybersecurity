@@ -5,7 +5,7 @@
 
 - ### Explaination of how the attack is causing the website malfunction  
 
-<p align="justify">When users of the website attempt to connect to the web server, a web server The TCP protocol is used during a three-way handshake. There are three steps in the handshake:</p> 
+<p align="justify">When users of the website attempt to connect to the web server The TCP protocol is used during a three-way handshake. There are three steps in the handshake:</p> 
 
 1. The source sends a SYN packet to the destination asking to establish a connection. 
 
