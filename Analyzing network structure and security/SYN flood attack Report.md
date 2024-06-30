@@ -1,0 +1,5 @@
+## Cybersecurity Incident Report: Network Traffic Analysis
+- ### Summary of the problem found in the DNS and ICMP traffic log
+  
+  **As part of the DNS Protocol**, the UDP Protocol was used to contact the DNS servewr tp obtain the IP Address for the Domain name: "yummyrecipesforme.com". An error message through the ICMP protocol has been delivered indicating that "UDP port 53 is unreachable." Since port 53 is directly correlated with DNS protocol traffic, we know this is an issue with the DNS server. The plus sign following the query identification number 35084 indicates flags with the UDP message, and the "A?" symbol indicates flags with the DNS protocol operations, which makes the problems even more apparent. The likelihood of the DNS server not responding is significant because of the ICMP error response message about port 53. The flags connected to the domain name retrieval and outgoing UDP packet provide more evidence for this notion.
+  
