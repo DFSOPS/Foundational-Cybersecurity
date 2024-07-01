@@ -1,4 +1,9 @@
 ## Incident report analysis  
+
+- [NIST Cybersecurity Framework ](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview)
+
+- [Incident report analysis Template](https://docs.google.com/document/d/1EnieOKYJyKGsVff5Gg-3-dVwrHrZ2m8Hig6tVpfKqyg/template/preview?resourcekey=0-eb5t-d69zTPLEGthIpVlXw)
+
 |         |            |
 | ------------- |:-------------:|
 | **Summary**      |<p align="justify"> A security issue occurred at the organisation when all network services abruptly ceased working. Through a barrage of incoming traffic, the cybersecurity team discovered that the outage was caused by a distributed denial of services (DDoS) attack.packets with ICMP. The group countered by thwarting the attack and suspending all non-essential network functions, allowing the restoration of vital network functions.</p>|
