@@ -2,7 +2,7 @@
 
 [Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)  
 
-## Controls and compliance checklist exemplar
+## Controls and compliance checklist
 
 Type an X in the “yes” or “no” column to answer the question: Does Botium Toys currently have this control in place?
 
