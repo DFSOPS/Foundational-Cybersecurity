@@ -1,8 +1,8 @@
-## Conducting a Security Audit  
+# Conducting a Security Audit  
 
 [Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc)  
 
-# Controls and compliance checklist exemplar
+## Controls and compliance checklist exemplar
 
 Type an X in the “yes” or “no” column to answer the question: Does Botium Toys currently have this control in place?
 
@@ -59,8 +59,8 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | X   |     | <p align="justify">Data integrity ensures the data is consistent, complete, accurate, and has been validated. |<p align="justify"> Data integrity is in check. |
 |     | X   | <p align="justify">Data is available to individuals authorized to access it. | <p align="justify">Although all employees have access to the data, authorization should only be granted to those who require it in order to perform their tasks. |
 
-**Recommendations :** <p align="justify">In order to lower asset risks and strengthen Botium Toys' security posture, your IT manager should provide advice in this section that are relevant to controls and/or compliance requirements to stakeholders.
+**Recommendations :** <p align="justify">In order to lower asset risks and strengthen Botium Toys' security posture, your IT manager should provide advice in this section that are relevant to controls and/or compliance requirements to stakeholders.</p>
 
-To strengthen Botium Toys' security posture and better guarantee the privacy of sensitive data, a number of controls—such as least privilege, disaster recovery plans, password policies, separation of duties, an intrusion detection system, continuing legacy system management, encryption, and a password management system—need to be put in place.
+<p align="justify">To strengthen Botium Toys' security posture and better guarantee the privacy of sensitive data, a number of controls—such as least privilege, disaster recovery plans, password policies, separation of duties, an intrusion detection system, continuing legacy system management, encryption, and a password management system—need to be put in place.</p>
 
-Botium Toys must put in place measures like encryption, separation of roles, and least privilege in order to address compliance gaps. Along with correctly classifying assets, the organisation must also determine what additional controls would need to be put in place in order to strengthen their security posture and better safeguard sensitive data.</p>
+<p align="justify">Botium Toys must put in place measures like encryption, separation of roles, and least privilege in order to address compliance gaps. Along with correctly classifying assets, the organisation must also determine what additional controls would need to be put in place in order to strengthen their security posture and better safeguard sensitive data.</p>
