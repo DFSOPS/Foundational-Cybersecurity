@@ -25,6 +25,7 @@ Network monitoring software to detect abnormal traffic patterns
 An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
 <p align="justify"> As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy. 
+
 |         |            |
 | ------------- |:-------------:|
 | **Summary**      |<p align="justify"> A security issue occurred at the organisation when all network services abruptly ceased working. Through a barrage of incoming traffic, the cybersecurity team discovered that the outage was caused by a distributed denial of services (DDoS) attack.packets with ICMP. The group countered by thwarting the attack and suspending all non-essential network functions, allowing the restoration of vital network functions.</p>|
