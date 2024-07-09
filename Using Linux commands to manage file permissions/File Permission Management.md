@@ -8,7 +8,7 @@ The projects directory contains files and folders that require the file permissi
 
 The code that follows shows how I was able to find the current permissions assigned for a particular directory in the file system using Linux commands.
 
-![alt text](image.png)
+![alt text](image.png)  
 
 The command I typed is shown in the first line of the screenshot, and the output is shown in the remaining lines. The projects directory's contents are all listed in the code. I was able to see a comprehensive list of the file contents—which included hidden files—by using the **ls** programme with the **\-la** option. My command produced the following output: one secret file called_.project_x.txt_, five other project files, and a subfolder called _drafts_. The permissions assigned on each file or directory are represented by the 10-character string in the first column.
 
@@ -29,7 +29,8 @@ The company concluded that no one else should be able to write to any of their f
 
 The following code demonstrates how I used Linux commands to do this:
 
-![alt text](image-1.png)
+![alt text](image-1.png)  
+
 The commands I typed are shown in the first two lines of the screenshot, and the result of the second command is shown in the remaining lines. The permissions of files and directories can be modified with the **chmod** command. The file or directory is specified by the second argument, while the first argument defines which permissions need to be adjusted. For the _project_k.txt_ file in this example, I deleted the write permissions from other. I then used **ls -la** to examine the changes I had made.
 
 ## Change file permissions on a hidden file
@@ -38,7 +39,8 @@ _Project_x.txt_ was recently archived by my organization's research team. The us
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-![alt text](image-2.png)
+![alt text](image-2.png)  
+
 The commands I typed are shown in the first two lines of the screenshot, and the result of the second command is shown in the remaining lines. I am aware. Because _project_x.txt_ begins with a period _(. ),_ it is a hidden file. In this example, I gave the group read permissions and took away the user's and group's write capabilities. I took away the user's **u-w** write permissions. Next, I gave the group with **g+r** read capabilities and withdrew write permissions from it.
 
 ## Change directory permissions
@@ -47,7 +49,8 @@ The _researcher2_ user should only have access to the drafts directory and its c
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-![alt text](image-3.png)
+![alt text](image-3.png)  
+
 The commands I typed are shown in the first two lines of the screenshot, and the result of the second command is shown in the remaining lines. I used the **chmod** command to remove the group's execute permissions after discovering earlier that they were there. It was not necessary to add execute rights because the _researcher2_ user already has them.
 
 ## Summary
