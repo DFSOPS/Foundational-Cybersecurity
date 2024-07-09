@@ -14,15 +14,15 @@
 
 <p align="justify"> The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 
-To address this security event, the network security team implemented: 
+- To address this security event, the network security team implemented: 
 
-A new firewall rule to limit the rate of incoming ICMP packets
+- A new firewall rule to limit the rate of incoming ICMP packets
 
-Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
+- Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
 
-Network monitoring software to detect abnormal traffic patterns
+- Network monitoring software to detect abnormal traffic patterns
 
-An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
+- An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
 <p align="justify"> As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy. 
 
