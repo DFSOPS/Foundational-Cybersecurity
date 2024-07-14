@@ -1,4 +1,4 @@
-# Google Cybersecurity Professional Certificate: Portfolio
+# Cybersecurity Portfolio
 
 ### Contents:
 - Professional statement
