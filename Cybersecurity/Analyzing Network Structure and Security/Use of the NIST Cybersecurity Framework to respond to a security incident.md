@@ -8,23 +8,18 @@
   ### Scenario 
 
 
-<p align="justify"> You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
+<p align="justify"> As a cybersecurity analyst at our multimedia company, we recently experienced a DDoS attack that compromised our internal network for two hours. It was a challenging time as our network services suddenly stopped responding due to an influx of ICMP packets. This prevented normal internal network traffic from accessing any network resources. To mitigate the impact, our incident management team promptly blocked incoming ICMP packets, taking non-critical network services offline temporarily while restoring critical network services.
+<p align="justify"> Following the attack, our dedicated cybersecurity team conducted a thorough investigation into the security event. Through their analysis, they discovered that a malicious actor had flooded our network with ICMP pings by exploiting an unconfigured firewall. This vulnerability allowed the attacker to execute a distributed denial of service (DDoS) attack, overwhelming our network resources.  
 
-<p align="justify"> During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
+<p align="justify"> To address this security event and enhance our network security, our network security team implemented several crucial measures:
+We implemented a new firewall rule to limit the rate of incoming ICMP packets, ensuring that future DDoS attacks would have a lesser impact on our network.
+Source IP address verification was configured on the firewall to check for spoofed IP addresses on incoming ICMP packets. This step effectively prevents attackers from using falsified source IP addresses to bypass our security measures.  
 
-<p align="justify"> The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
+<p align="justify"> We deployed network monitoring software to detect abnormal traffic patterns in real-time. This proactive approach allows us to identify potential DDoS attacks promptly and respond swiftly.
+An IDS/IPS system was integrated to filter out suspicious ICMP traffic based on predefined rules and characteristics. This additional layer of protection helps in mitigating potential threats and ensuring the integrity of our network.  
 
-- To address this security event, the network security team implemented: 
+<p align="justify"> As a dedicated cybersecurity analyst, it is now my responsibility to leverage the knowledge gained from this security event to develop a comprehensive plan to improve our company's network security. I will follow the guidelines provided by the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to analyze this cybersecurity event thoroughly. By doing so, I will be able to integrate my analysis into a cohesive security strategy that aligns with industry best practices and safeguards our network infrastructure against future threats.
 
-- A new firewall rule to limit the rate of incoming ICMP packets
-
-- Source IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets
-
-- Network monitoring software to detect abnormal traffic patterns
-
-- An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
-
-<p align="justify"> As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy. 
 
 |         |            |
 | ------------- |:-------------:|
