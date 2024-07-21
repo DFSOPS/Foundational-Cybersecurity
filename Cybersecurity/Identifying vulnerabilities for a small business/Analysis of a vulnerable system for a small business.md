@@ -8,7 +8,7 @@
 
 # Scope
 
-This vulnerability assessment's scope is related to the system's present access controls. The evaluation will take place between June 20XX and August 20XX, a span of three months. [Revised NIST SP 800-30]The information system's risk analysis is guided by [NIST SP 800-30 Rev. 1](https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA).
+This vulnerability assessment's scope is related to the system's present access controls. The evaluation will take place between June 20XX and August 20XX, a span of three months. The information system's risk analysis is guided by [NIST SP 800-30 Rev. 1](https://docs.google.com/document/d/1pRpdpQMEWskxSkwqEMv8W7A7x8GXQlcn0hEcDzWet3Y/template/preview?resourcekey=0-3GRRWAd8HryVgof-Jc33yA).
 
 # Purpose
 
