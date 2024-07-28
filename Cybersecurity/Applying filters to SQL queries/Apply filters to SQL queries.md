@@ -12,7 +12,7 @@
 
 ![alt text](image.png)
 
-<p align="justify"> My query appears in the first section of the screenshot, and some of the output appears in the second. This search looks for unsuccessful attempts at login that had place after 18:00. I began by pulling all of the information out of the log_in_attempts table. I then filtered my findings using a WHERE clause and an AND operator to only show login attempts that were failed and happened after 18:00. Login attempts made after 18:00 are filtered out by the first criteria, login_time > '18:00'. Success = FALSE is the second criterion, which excludes unsuccessful login attempts.
+<p align="justify"> My query appears in the first section of the screenshot, and some of the output appears in the second. This search looks for unsuccessful attempts at login that had place after 18:00. I began by pulling all of the information out of the log_in_attempts table. I then filtered my findings using a WHERE clause and an AND operator to only show login attempts that were failed and happened after 18:00. Login attempts made after 18:00 are filtered out by the first criteria, login_time > '18:00'. Success = FALSE is the second criterion, which filters for unsuccessful login attempts.
 
 ## Retrieve login attempts on specific dates
 
