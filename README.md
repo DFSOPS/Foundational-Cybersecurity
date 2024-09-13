@@ -1,4 +1,4 @@
-Security Practices and Incident Management
+Foundational Cybersecurity
 ------------------------------------------
 
 Welcome to my repository showcasing a range of security practices and incident management techniques. This repository is designed to demonstrate my skills and knowledge in various aspects of cybersecurity. Here's an overview of what you'll find:
